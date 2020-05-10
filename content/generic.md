@@ -1,13 +1,19 @@
 ---
-title: A Generic Page
-content_img_path: images/pic04.jpg
+title: A Profile Page
+content_img_path: "/images/profile1.jpg"
+layout: page
+home_spotlights:
+  enabled: false
+  weight: 
+  excerpt: ''
+  home_img:
+    path: ''
+    data_position: ''
+    url: ''
 menu:
   main:
     name: Generic
     weight: 2
-layout: page
+
 ---
-
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Experienced in UI Development with over 5.3 years of experience insoftware Industry. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements.Consistently saved costs while increasing profits.
