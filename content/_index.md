@@ -68,7 +68,7 @@ sections:
       "Baluchistan (Chief Commissioner''s Province)"),[\[4\]](https://en.wikipedia.org/wiki/Suresh_Oberoi#cite_note-4)
       and is a recipient of the 1987 [National Film Award for Best Supporting Actor](https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actor
       "National Film Award for Best Supporting Actor").'
-    icon: fa-men
+    icon: fa-male
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
