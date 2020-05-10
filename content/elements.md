@@ -1,8 +1,8 @@
 ---
-title: Elements
+title: Others
+layout: elements
 menu:
   main:
-    name: Elements
     weight: 3
-layout: elements
+
 ---
