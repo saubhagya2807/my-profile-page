@@ -8,7 +8,7 @@ home_spotlights:
     produced and directed by Ashutosh Gowariker, based on the true life story of a
     Non-resident Indian (NRI) man who returns to his homeland."
   home_img:
-    path: "/images/swadesh3.jpg"
+    path: "/images/swadesh1.jpg"
     data_position: 25% 25%
     url: "#"
 layout: page
