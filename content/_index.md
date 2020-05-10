@@ -115,7 +115,7 @@ sections:
       url: "#"
     - title: GitHub
       icon: fa-github
-      url: "#"
+      url: https://github.com/saubhagya2807
     - title: Instagram
       icon: fa-instagram
       url: "#"
