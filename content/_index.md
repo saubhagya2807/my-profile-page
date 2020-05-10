@@ -76,7 +76,7 @@ sections:
       Majumdar was very passionate about acting since his birth and was firm to choose
       acting as his profession.
     icon: fa-male
-  - title: Aliquam urna dapibus
+  - title: 'Arjan Bajwa '
     text: "**Arjan Bajwa** (born 3 September 1979) is an Indian film actor known for
       his work in Hindi and **Telugu cinema.** He started his career with Telugu films.
       He made a breakthrough in Bollywood with the critically acclaimed 2007 film
