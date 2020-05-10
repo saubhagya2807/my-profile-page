@@ -58,10 +58,17 @@ sections:
       2016 sports biopic [**M.S. Dhoni: The Untold Story**](https://en.wikipedia.org/wiki/M.S._Dhoni:_The_Untold_Story
       "M.S. Dhoni: The Untold Story")'
     icon: fa-female
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-cog
+  - title: Suresh Oberoi
+    text: '**Suresh Oberoi** (born 17 December 1946)[\[3\]](https://en.wikipedia.org/wiki/Suresh_Oberoi#cite_note-3)
+      is an [Indian](https://en.wikipedia.org/wiki/India "India") [character actor](https://en.wikipedia.org/wiki/Character_actor
+      "Character actor") & [Politician](https://en.wikipedia.org/wiki/Politician "Politician").
+      He is the father of [Bollywood](https://en.wikipedia.org/wiki/Bollywood "Bollywood")
+      actor [Vivek Oberoi](https://en.wikipedia.org/wiki/Vivek_Oberoi "Vivek Oberoi").
+      He was born in [Quetta](https://en.wikipedia.org/wiki/Quetta "Quetta"), [Balochistan](https://en.wikipedia.org/wiki/Baluchistan_(Chief_Commissioner%27s_Province)
+      "Baluchistan (Chief Commissioner''s Province)"),[\[4\]](https://en.wikipedia.org/wiki/Suresh_Oberoi#cite_note-4)
+      and is a recipient of the 1987 [National Film Award for Best Supporting Actor](https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actor
+      "National Film Award for Best Supporting Actor").'
+    icon: fa-men
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
