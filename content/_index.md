@@ -64,10 +64,12 @@ sections:
       in Quetta, Balochistan and is a recipient of the 1987 **National Film Award
       for Best Supporting Actor.**"
     icon: fa-male
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-desktop
+  - title: Nikita Dutta
+    text: "**Nikita Dutta** (born 13 November 1993) is an Indian Actress. A finalist
+      of Femina Miss India 2012, she made her Bollywood debut with the film Lekar
+      Hum Deewana Dil where she played a supporting role, and expanded to television
+      with the show **Dream Girl.**"
+    icon: fa-female
   - title: Urna quis bibendum
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
