@@ -37,9 +37,8 @@ sections:
 - type: features
   template: features
   title: Movies Cast
-  subtitle: "**_Kabir Singh_** is a 2019 Indian Hindi-language romantic drama film
-    written and directed by Sandeep Vanga. It is a remake of his own Telugu film Arjun
-    Reddy"
+  subtitle: "**Kabir Singh** is a 2019 Indian Hindi-language romantic drama film written
+    and directed by Sandeep Vanga. It is a remake of his own Telugu film Arjun Reddy"
   section_id: two
   background_style: style3
   features_list:
