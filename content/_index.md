@@ -17,9 +17,9 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: My Profile
-  subtitle: I am Saurabh Sonparate.I have 5.3 years of Experience in Front End Developement
-    developement. Now I am working on JAM (Javascript API's Markup) Stack technology
+  title: All-Time favourite
+  subtitle: I love to watch movies as I'm a movie addict. It is very simple and full
+    of emotions.
   section_id: intro
   background_style: style1
   actions:
