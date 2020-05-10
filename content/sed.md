@@ -4,7 +4,7 @@ content_img_path: "/images/kabirsingh5.jpg"
 home_spotlights:
   enabled: true
   weight: 1
-  excerpt: 'Early on, there’s a scene in Kabir _Singh_ where Preeti (Kiara Advani),
+  excerpt: 'Early on, there’s a scene in Kabir Singh where Preeti (Kiara Advani),
     the first-year medical student who catches the fancy of the eponymous hero (an
     unconvincing Shahid Kapoor) is molested on Holi. '
   home_img:
