@@ -7,7 +7,7 @@ home_spotlights:
   excerpt: "### Disguised as a love story, Sandeep Reddy Vanga’s Kabir Singh justifies
     what Indian men have been trying to normalise since time immemorial: "
   home_img:
-    path: images/pic01.jpg
+    path: "/images/kabirsingh5.jpg"
     data_position: center center
     url: "#"
 layout: page
