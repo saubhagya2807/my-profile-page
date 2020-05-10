@@ -1,6 +1,6 @@
 ---
 title: WAR
-content_img_path: "/images/War1.jpg"
+content_img_path: "/images/war3.jpg"
 home_spotlights:
   enabled: true
   weight: 2
