@@ -1,5 +1,5 @@
 ---
-title: Feugiat consequat
+title: WAR
 content_img_path: "/images/War1.jpg"
 home_spotlights:
   enabled: true
