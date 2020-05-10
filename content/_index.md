@@ -51,10 +51,11 @@ sections:
       "List of awards and nominations received by Shahid Kapoor"), including three
       [Filmfare Awards](https://en.wikipedia.org/wiki/Filmfare_Awards "Filmfare Awards").'
     icon: fa-user
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-lock
+  - title: Kiara Advani
+    text: '**Alia Advani** (born 31 July 1992), known professionally as **Kiara Advani**,
+      is an Indian actress who appears predominantly in [Hindi films](https://en.wikipedia.org/wiki/Bollywood
+      "Bollywood")'
+    icon: fa-female
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
