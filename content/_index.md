@@ -43,7 +43,7 @@ sections:
   section_id: two
   background_style: style3
   features_list:
-  - title: Shahid Kappor
+  - title: Shahid Kapoor
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-code
