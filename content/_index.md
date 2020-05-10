@@ -54,7 +54,9 @@ sections:
   - title: Kiara Advani
     text: '**Alia Advani** (born 31 July 1992), known professionally as **Kiara Advani**,
       is an Indian actress who appears predominantly in [Hindi films](https://en.wikipedia.org/wiki/Bollywood
-      "Bollywood")'
+      "Bollywood"). Advani had her first commercial success with a brief role in the
+      2016 sports biopic [**M.S. Dhoni: The Untold Story**](https://en.wikipedia.org/wiki/M.S._Dhoni:_The_Untold_Story
+      "M.S. Dhoni: The Untold Story")'
     icon: fa-female
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
