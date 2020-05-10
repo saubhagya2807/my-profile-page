@@ -50,7 +50,7 @@ sections:
       films and thrillers, and is the recipient of [several awards](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Shahid_Kapoor
       "List of awards and nominations received by Shahid Kapoor"), including three
       [Filmfare Awards](https://en.wikipedia.org/wiki/Filmfare_Awards "Filmfare Awards").'
-    icon: fa-code
+    icon: fa-user
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
