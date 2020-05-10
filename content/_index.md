@@ -44,12 +44,10 @@ sections:
   background_style: style3
   features_list:
   - title: Shahid Kapoor
-    text: '**Shahid Kapoor** ( born 25 February 1981), is an Indian actor who appears
-      in [Hindi films](https://en.wikipedia.org/wiki/Bollywood "Bollywood"). Initially
-      recognised for portraying romantic roles, he has since taken on parts in action
-      films and thrillers, and is the recipient of [several awards](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Shahid_Kapoor
-      "List of awards and nominations received by Shahid Kapoor"), including three
-      [Filmfare Awards](https://en.wikipedia.org/wiki/Filmfare_Awards "Filmfare Awards").'
+    text: "**Shahid Kapoor** ( born 25 February 1981), is an Indian actor who appears
+      in Hindi films. Initially recognised for portraying romantic roles, he has since
+      taken on parts in action films and thrillers, and is the recipient of several
+      awards, including three Filmfare Awards."
     icon: fa-male
   - title: Kiara Advani
     text: '**Alia Advani** (born 31 July 1992), known professionally as **Kiara Advani**,
