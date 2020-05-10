@@ -8,7 +8,7 @@ sidebar:
   - title: Favorite Movies
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: Movies Cast
     url: "#two"
     is_primary: false
   - title: Get in touch
