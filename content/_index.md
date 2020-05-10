@@ -36,14 +36,14 @@ sections:
   component: spotlights.html
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: Movies Cast
+  subtitle: "**_Kabir Singh_** is a 2019 Indian Hindi-language romantic drama film
+    written and directed by Sandeep Vanga. It is a remake of his own Telugu film Arjun
+    Reddy"
   section_id: two
   background_style: style3
   features_list:
-  - title: Lorem ipsum amet
+  - title: Shahid Kappor
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-code
