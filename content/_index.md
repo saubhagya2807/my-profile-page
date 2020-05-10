@@ -112,7 +112,7 @@ sections:
       url: "#"
     - title: Facebook
       icon: fa-facebook
-      url: "#"
+      url: https://facebook.com/
     - title: GitHub
       icon: fa-github
       url: https://github.com/saubhagya2807
