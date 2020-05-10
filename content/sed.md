@@ -1,19 +1,18 @@
 ---
-title: Sed ipsum dolor
-content_img_path: images/pic04.jpg
+title: 'Kabir Singh '
+content_img_path: "/images/kabirsingh5.jpg"
 home_spotlights:
   enabled: true
   weight: 1
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: "###### Disguised as a love story, Sandeep Reddy Vanga’s Kabir Singh justifies
+    what Indian men have been trying to normalise since time immemorial: "
   home_img:
     path: images/pic01.jpg
     data_position: center center
-    url: '#'
+    url: "#"
 layout: page
+
 ---
+###### Disguised as a love story, Sandeep Reddy Vanga’s Kabir Singh justifies what Indian men have been trying to normalise since time immemorial: That anger is a man’s birthright. That rage is necessary for a man to exert his dominance over a woman and the world needs to accept it.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Early on, there’s a scene in Kabir _Singh_ where Preeti (Kiara Advani), the first-year medical student who catches the fancy of the eponymous hero (an unconvincing Shahid Kapoor) is molested on Holi. Six men from a rival football team that Kabir beats up during an earlier match turn up at her hostel and rub colour on her to exact revenge on him.
