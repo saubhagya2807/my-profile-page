@@ -70,10 +70,12 @@ sections:
       Hum Deewana Dil where she played a supporting role, and expanded to television
       with the show **Dream Girl.**"
     icon: fa-female
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-chain
+  - title: Soham Majumdar
+    text: Soham Majumdar is an Indian actor born in Kolkata, India. Soham Majumdar
+      is an Engineer and has completed his schooling from Don Bosco, Kolkata.Soham
+      Majumdar was very passionate about acting since his birth and was firm to choose
+      acting as his profession.
+    icon: fa-male
   - title: Aliquam urna dapibus
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
