@@ -59,10 +59,10 @@ sections:
       "M.S. Dhoni: The Untold Story")'
     icon: fa-female
   - title: Suresh Oberoi
-    text: "**Suresh Oberoi** (born 17 December 1946)[\\[3\\]](https://en.wikipedia.org/wiki/Suresh_Oberoi#cite_note-3)
-      is an Indian character actor & Politician. He is the father of Bollywood actor
-      **Vivek Oberoi**. He was born in Quetta, Balochistan and is a recipient of the
-      1987 **National Film Award for Best Supporting Actor.**"
+    text: "**Suresh Oberoi** (born 17 December 1946) is an Indian character actor
+      & Politician. He is the father of Bollywood actor **Vivek Oberoi**. He was born
+      in Quetta, Balochistan and is a recipient of the 1987 **National Film Award
+      for Best Supporting Actor.**"
     icon: fa-male
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
