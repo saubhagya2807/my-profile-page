@@ -4,10 +4,11 @@ content_img_path: "/images/War1.jpg"
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: "**War film** is a film genre concerned with warfare, typically about naval,
+    air, or land battles, with combat scenes central to the drama. It has been strongly
+    associated with the 20th century."
   home_img:
-    path: images/pic02.jpg
+    path: "/images/warr2.jpeg"
     data_position: top center
     url: "#"
 layout: page
