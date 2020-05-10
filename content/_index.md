@@ -94,9 +94,9 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
+      Flat A-305, Infinity Tower Punawale,
+      Near Ravet Bridge, Pune 411044
+      India
     url: ''
   - title: Email
     text: user@Hyperspace.tld
