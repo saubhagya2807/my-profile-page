@@ -14,6 +14,6 @@ home_spotlights:
 layout: page
 
 ---
-###### Disguised as a love story, Sandeep Reddy Vanga’s Kabir Singh justifies what Indian men have been trying to normalise since time immemorial: That anger is a man’s birthright. That rage is necessary for a man to exert his dominance over a woman and the world needs to accept it.
+##### Disguised as a love story, Sandeep Reddy Vanga’s Kabir Singh justifies what Indian men have been trying to normalise since time immemorial: That anger is a man’s birthright. That rage is necessary for a man to exert his dominance over a woman and the world needs to accept it.
 
 Early on, there’s a scene in Kabir _Singh_ where Preeti (Kiara Advani), the first-year medical student who catches the fancy of the eponymous hero (an unconvincing Shahid Kapoor) is molested on Holi. Six men from a rival football team that Kabir beats up during an earlier match turn up at her hostel and rub colour on her to exact revenge on him.
