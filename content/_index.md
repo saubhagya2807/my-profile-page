@@ -99,7 +99,7 @@ sections:
       India
     url: ''
   - title: Email
-    text: user@Hyperspace.tld
+    text: sonparatesau08@gmail.com
     url: "#"
   - title: Phone
     text: "(000) 000-0000"
