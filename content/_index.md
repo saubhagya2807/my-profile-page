@@ -102,7 +102,7 @@ sections:
     text: sonparatesau08@gmail.com
     url: "#"
   - title: Phone
-    text: "(000) 000-0000"
+    text: "(91) 902-176-2192"
     url: ''
   social:
     title: Social
