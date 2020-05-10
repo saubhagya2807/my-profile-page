@@ -77,9 +77,11 @@ sections:
       acting as his profession.
     icon: fa-male
   - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-diamond
+    text: "**Arjan Bajwa** (born 3 September 1979) is an Indian film actor known for
+      his work in Hindi and **Telugu cinema.** He started his career with Telugu films.
+      He made a breakthrough in Bollywood with the critically acclaimed 2007 film
+      **Guru** after debuting in the 2004 Hindi film Woh Tera Naam Tha."
+    icon: fa-male
   actions:
   - label: Learn more
     url: "/generic"
