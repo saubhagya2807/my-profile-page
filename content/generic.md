@@ -12,7 +12,7 @@ home_spotlights:
     url: ''
 menu:
   main:
-    name: Generic
+    name: Profile
     weight: 2
 
 ---
