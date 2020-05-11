@@ -17,7 +17,7 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: All-Time favourite
+  title: All-Time Favourite
   subtitle: I love to watch movies as I'm a movie addict. It is very simple and full
     of emotions.
   section_id: intro
