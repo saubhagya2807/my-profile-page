@@ -1,8 +1,6 @@
-# Hyperspace
+# My Profile Page
 
-A multi-page theme with scroll-animated home sections for Stackbit. [Live Demo](https://themes.stackbit.com/demos/hyperspace/blue)
-
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-hyperspace)
+A multi-page theme with scroll-animated home sections for Stackbit.
 
 ### Turn themes into CMS-powered websites
 
@@ -34,8 +32,6 @@ Compile a production build into the `public` folder.
 unibit build
 ```
 
-### CodeSandbox
 
-Develop this theme in the browser using CodeSandbox.
 
-[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-hyperspace)
+
